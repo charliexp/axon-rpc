@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/axon-rpc.git"
+    "url": "https://github.com/charliexp/axon-rpc.git"
   },
   "license": "MIT"
 }
